@@ -1,0 +1,1 @@
+{"rewrites": [{"source": "/api/(.*)", "destination": "https://shopping-api.onrender.com/api/$1"}, {"source": "/uploads/(.*)", "destination": "https://shopping-api.onrender.com/uploads/$1"}]}
